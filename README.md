@@ -4,6 +4,10 @@ A Python-based Mars Rover simulation project focused on rover movement, obstacle
 
 This project is being developed as a learning- and research-oriented portfolio project in robotics, autonomous navigation, and space exploration.
 
+## 🖥️ Simulation Preview
+
+![Mars Rover Simulation](mars_rover_simulation.png)
+
 ## ✨ Features
 
 - 🧭 Grid-based rover movement
